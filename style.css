@@ -128,19 +128,12 @@ p {
     margin: 0 10px 0px 10px;
 }
 
-.printables {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
-    align-items: center;
-    margin: 10px;
-}
-
 .print-images {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
     align-items: center;
+    margin: 10px;	
 }
 
 .p-img {
