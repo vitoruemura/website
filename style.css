@@ -46,6 +46,16 @@ body {
     line-height: 3px;
 }
 
+footer {
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+    font-size: 12px;
+}
+
+.footer-home {
+    margin-top: 10rem;
+}
+
 h1 {
     letter-spacing: 5px;
     font-size: 3em;
