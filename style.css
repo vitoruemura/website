@@ -20,18 +20,18 @@ time, mark, audio, video {
 }
 
 a {
-    color: #90cdce;
+    color: #BD8FD1;
     margin: 20px;
     line-height: 2.5;
 }
 
 a:hover{
-    color: orange;
+    color: #E7C37A;
 }
 
 body {
-    background-color: #2e2e2e;
-    color: #90cdce;
+    background-color: #1E1E2D;
+    color: #ABBDCC;
     font-family: Inconsolata, 'space mono', 'courier new', sans-serif;
     font-weight: 300;
     text-align: center;
