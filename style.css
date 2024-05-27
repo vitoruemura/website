@@ -31,7 +31,7 @@ a:hover{
 
 body {
     background-color: #1E1E2D;
-    color: #ABBDCC;
+    color: #ccdae6;
     font-family: Inconsolata, 'space mono', 'courier new', sans-serif;
     font-weight: 300;
     text-align: center;
@@ -57,7 +57,7 @@ footer {
 }
 
 .gradient-text {
-    background-image: -webkit-linear-gradient(45deg, #ABBDCC, #7c909f, #ee8923);
+    background-image: -webkit-linear-gradient(135deg, #ccdae6, #ee8923, #7c909f);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 
@@ -70,8 +70,6 @@ h1 {
     margin-top: 50px;
     margin-bottom: 50px;
     text-align: center;
-    margin-right: auto;
-    margin-right: auto;
 }
 
 h2 {
