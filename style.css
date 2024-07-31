@@ -30,8 +30,8 @@ a:hover{
 }
 
 b {
-    font-weight: 800;
-    color: rgb(228, 133, 165);
+    font-weight: bold;
+    color: #e485a5;
     font-size: 20px;
 }
 
