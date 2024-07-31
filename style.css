@@ -29,6 +29,12 @@ a:hover{
     color: #E7C37A;
 }
 
+b {
+    font-weight: 800;
+    color: rgb(228, 133, 165);
+    font-size: 20px;
+}
+
 body {
     background-color: #1E1E2D;
     color: #ccdae6;
