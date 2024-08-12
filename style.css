@@ -167,3 +167,30 @@ p {
     margin: 5px;
     max-width: 100%;
 }
+
+/*teste de carousel*/
+.slider-wraper {
+    position: relative;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.slider {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.slider::-webkit-scrollbar {
+    display: none;
+}
+
+.slider img {
+    flex: auto;
+    max-width: 100%;
+    scroll-snap-align: start;
+    object-fit: cover;
+}
