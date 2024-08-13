@@ -167,39 +167,3 @@ p {
     margin: 5px;
     max-width: 100%;
 }
-
-/*slick*/
-.slick-dots {
-    list-style-type: none;
-    display: flex;
-    justify-content: center;
-}
- 
-.slick-dots li {
-    margin: 1rem 0.25rem;
-}
-
-.slick-dots button {
-    display: flex;
-    border: none;
-    border-radius: 100%;
-    width: 0.5rem;
-    height: 0.5rem;
-    padding: 0;
-    background-color: rgb(255, 255, 255);
-    opacity: 75%;
-    font-size: 0;
-    cursor: pointer;
-}
-
-.wrapper {
-    max-width: 100%;
-}
-
-.carousel {
-    max-width: inherit;
-}
-
-.slide {
-    max-width: inherit;
-}
