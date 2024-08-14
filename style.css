@@ -170,3 +170,7 @@ p {
 section {
     max-width: 600px;
 }
+
+.spacer {
+    margin-bottom: -10px;
+}
