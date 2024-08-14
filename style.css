@@ -168,3 +168,6 @@ p {
 }
 
 /*teste*/
+section {
+    max-width: 600px;
+}
