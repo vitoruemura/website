@@ -92,11 +92,10 @@ h3 {
 }
 
 .logoimg {
-    width: 100%;
-    max-width: 120px;
+    max-width: 100%;
     height: auto;
-    margin-top: -50px;
-    margin-bottom: -20px;
+    margin-top: 10px;
+    margin-bottom: -10px;
 }
 
 .main-body {
