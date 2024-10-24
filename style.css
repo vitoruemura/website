@@ -92,7 +92,7 @@ h3 {
 }
 
 .logoimg {
-    width: auto;
+    max-width: 100%;
     max-height: 100px;
     margin-top: 10px;
     margin-bottom: -10px;
