@@ -21,8 +21,8 @@ time, mark, audio, video {
 
 a {
     color: #c69cd8;
-    margin: 20px;
-    line-height: 2.5;
+    margin: 5px;
+    line-height: 0.5;
 }
 
 a:hover{
@@ -110,6 +110,11 @@ h3 {
 
 .main-home {
     margin: 1em;
+}
+
+.menu {
+    margin: 1px;
+    line-height: 3;
 }
 
 #nav-placeholder {
