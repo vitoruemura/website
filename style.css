@@ -29,6 +29,10 @@ a:hover{
     color: #E7C37A;
 }
 
+a:link{
+    text-decoration: none;
+}
+
 b {
     font-weight: bold;
     color: #e485a5;
@@ -115,6 +119,9 @@ h3 {
 .menu {
     margin: 1px;
     line-height: 3;
+    font-weight: 700;
+    letter-spacing: 5px;
+    font-size: large;
 }
 
 #nav-placeholder {
