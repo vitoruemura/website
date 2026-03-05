@@ -19,6 +19,11 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
+@font-face {
+    font-family: 'hortifruti';
+    src: url(hortifruti.otf);
+}
+
 a {
     color: #c69cd8;
     margin: 5px;
@@ -68,10 +73,10 @@ footer {
 }
 
 h1 {
-    font-family: Inter, sans-serif;
-    letter-spacing: 5px;
+    font-family: hortifruti;
+    letter-spacing: 8px;
     font-size: 3em;
-    font-weight: 700;
+    font-weight: 400;
     margin-top: 30px;
     margin-bottom: 50px;
     text-align: center;
