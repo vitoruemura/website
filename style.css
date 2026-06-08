@@ -167,6 +167,7 @@ p {
 .port-img {
     margin-top: 1em;
     max-width: 100%;
+    justify-content: center;
 }
 
 .portfolio-images {
